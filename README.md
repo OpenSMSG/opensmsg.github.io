@@ -1,2 +1,2 @@
 # opensmsg.github.io
-Official OpenSMSG website.
+Repository with all techniacal research an information for Sid Meier's Sim Golf.
