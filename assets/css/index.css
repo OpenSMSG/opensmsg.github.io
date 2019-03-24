@@ -4,7 +4,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     margin: 0;
     color: #fff;
-    background: #000 url(../img/screenshot.png) no-repeat center;
+    background: #000 url(../img/screenshot.jpg) no-repeat center;
     -webkit-text-size-adjust: 100%; /* fix footer bug on iOS */
 }
 
