@@ -1,2 +1,2 @@
 # opensmsg.github.io
-Repository with all techniacal research an information for Sid Meier's Sim Golf.
+Repository containing the GutHub site for the Open Sid Meier's Sim Golf (OpenSMSG) project.
